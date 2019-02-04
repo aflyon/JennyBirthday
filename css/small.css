@@ -1,0 +1,32 @@
+
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+.smug-cat img {
+	width: 100%;
+  	border-radius: 0;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+aside.snack, aside.dishwasher {
+  	text-align: center;
+  	float: inherit;
+  	width: 100%;
+	margin: 0;
+	padding: 0;
+}
